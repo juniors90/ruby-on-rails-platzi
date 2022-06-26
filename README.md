@@ -21,4 +21,18 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* Models
+
+```
+rails g model Pet name:string breed:string
+rails db:migrate
+```
+
+* Rails Console
+
+```
+C:\mi_app>rails console
+Loading development environment (Rails 7.0.3)
+irb(main):001:0> Pet.create name: 'lulu', breed: 'pug'
+irb(main):001:0> Pet.first
+```
