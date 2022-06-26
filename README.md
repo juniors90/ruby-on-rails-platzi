@@ -135,3 +135,11 @@ database: db/development.sqlite3
    up     20220626174812  Create pets
    up     20220626193521  Create books
 ```
+
+- Optimiza tu código con HAML
+
+[Haml](http://haml.info/)
+
+[GitHub - haml/haml: HTML Abstraction Markup Language - A Markup Haiku](https://github.com/haml/haml)
+
+[GitHub - k0kubun/hamlit: High Performance Haml Implementation](https://github.com/k0kubun/hamlit)
