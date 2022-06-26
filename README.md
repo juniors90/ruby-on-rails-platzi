@@ -113,3 +113,12 @@ Lecturas recomendadas
 [The Asset Pipeline — Ruby on Rails Guides](https://guides.rubyonrails.org/asset_pipeline.html)
 
 [The Asset Pipeline](https://guides.rubyonrails.org/asset_pipeline.html)
+
+
+* Scaffold
+
+```
+rails g scaffold Book title:string author:string description:string isbn:string pages_count:integer
+```
+
+[Ruby on Rails Guides: Rails Routing from the Outside In](https://guides.rubyonrails.org/routing.html#resources-on-the-web)
