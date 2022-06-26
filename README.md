@@ -122,3 +122,16 @@ rails g scaffold Book title:string author:string description:string isbn:string 
 ```
 
 [Ruby on Rails Guides: Rails Routing from the Outside In](https://guides.rubyonrails.org/routing.html#resources-on-the-web)
+
+- Cómo funcionan las migraciones
+
+```
+C:\mi_app>rails db:migrate:status
+
+database: db/development.sqlite3
+
+ Status   Migration ID    Migration Name
+--------------------------------------------------
+   up     20220626174812  Create pets
+   up     20220626193521  Create books
+```
