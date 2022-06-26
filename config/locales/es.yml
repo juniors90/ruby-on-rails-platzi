@@ -29,7 +29,13 @@
 # To learn more, please read the Rails Internationalization guide
 # available at https://guides.rubyonrails.org/i18n.html.
 
-en:
-  hello: "Hello world"
+es:
+  hello: "Hola Mundo"
   users:
-    first_name: "First Name"
+    first_name: "Nombre/s"
+    last_name: 'Apellido/s'
+    description: 'Descripción'
+    address: 'Dirección'
+    about_me: 'Acerca de'
+    age: 'Edad'
+

@@ -158,3 +158,7 @@ Lecturas recomendadas
 ```
 rails g scaffold User first_name:string last_name:string description:string addres:string about_me:text age:integer
 ```
+
+- Soporte de varios idiomas para tu aplicación
+
+[i18n-tasks | RubyGems.org | your community gem host](https://rubygems.org/gems/i18n-tasks/versions/0.9.5)
