@@ -91,10 +91,25 @@ Rails.application.credentials.config # nos mostrara todo el contenido
 Rails.application.credentials.aws # nos mostrara el valor de la clave aws
 ```
 
-[Rails 6 Credencial](https://blog.saeloun.com/2019/10/10/rails-6-adds-support-for-multi-environment-credentials.html)
-[The twelve-factor app](https://12factor.net/)
-
 ```
 C:\mi_aap> rails c
 irb(main):002:0> Rails.application.credentials.hello
 ```
+
+[Rails 6 Credencial](https://blog.saeloun.com/2019/10/10/rails-6-adds-support-for-multi-environment-credentials.html)
+
+[The twelve-factor app](https://12factor.net/)
+
+* Assets
+
+Lecturas recomendadas
+
+[Curso de Webpack | Platzi](https://platzi.com/clases/webpack/)
+
+[Curso de Sass](https://platzi.com/clases/sass/)
+
+[Curso de Preprocesadores](https://platzi.com/clases/preprocesadores/)
+
+[The Asset Pipeline — Ruby on Rails Guides](https://guides.rubyonrails.org/asset_pipeline.html)
+
+[The Asset Pipeline](https://guides.rubyonrails.org/asset_pipeline.html)
