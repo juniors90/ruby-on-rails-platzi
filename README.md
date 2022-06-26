@@ -143,3 +143,18 @@ database: db/development.sqlite3
 [GitHub - haml/haml: HTML Abstraction Markup Language - A Markup Haiku](https://github.com/haml/haml)
 
 [GitHub - k0kubun/hamlit: High Performance Haml Implementation](https://github.com/k0kubun/hamlit)
+
+- Agiliza la construcción de formularios con Simple Form
+
+Lecturas recomendadas
+
+[GitHub - heartcombo/simple_form: Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.](https://github.com/heartcombo/simple_form)
+
+
+[Convert HTML to HAML](https://htmltohaml.com/)
+
+- 
+
+```
+rails g scaffold User first_name:string last_name:string description:string addres:string about_me:text age:integer
+```

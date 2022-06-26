@@ -28,6 +28,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 
 gem 'hamlit', '~> 2.9', '>= 2.9.3'
+gem 'simple_form'
 # Use Redis adapter to run Action Cable in production
 # gem "redis", "~> 4.0"
 
